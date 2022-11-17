@@ -1,0 +1,22 @@
+body{
+    padding: 50px 100px;
+}
+h1{
+    text-align: center;
+}
+#container{
+    text-align: center;
+    background-color: rgb(42, 120, 165);
+    padding: 50px;
+}
+.inp{
+    padding: 5px 10px;
+    margin:10px ;
+    font-size: 30px;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+}
+label{
+    font-size: 23px;
+}
